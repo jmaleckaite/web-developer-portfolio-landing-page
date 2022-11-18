@@ -1,4 +1,5 @@
 # WebProtfolio
+A web portfolio responsive landing page built using Codewell.cc design templates. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
