@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'web-protfolio';
+
+  displayMenu: boolean = false;
+
+  toggleMenu() {
+    this.displayMenu = !this.displayMenu;
+  }
+  
 }
